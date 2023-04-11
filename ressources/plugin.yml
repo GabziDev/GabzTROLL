@@ -4,3 +4,6 @@ main: ch.gabzdev.troll.Main
 commands:
   tversion:
     description: Affiche la version du plugin
+  troll1:
+    permission: gabz.troll
+    permission-message: "§c[!] Vous n'avez pas la permission !"
