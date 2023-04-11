@@ -1,0 +1,6 @@
+name: GabzTROLL
+version: 1.0.0-beta
+main: ch.gabzdev.troll.Main
+commands:
+  tversion:
+    description: Affiche la version du plugin
