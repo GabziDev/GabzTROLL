@@ -1,9 +1,23 @@
 name: GabzTROLL
-version: 1.0.0-beta
+version: 1.0.5-beta
 main: ch.gabzdev.troll.Main
 commands:
+  thelp:
+    description: Affiche les commandes du plugin
   tversion:
     description: Affiche la version du plugin
   troll1:
+    permission: gabz.troll
+    permission-message: "§c[!] Vous n'avez pas la permission !"
+  troll2:
+    permission: gabz.troll
+    permission-message: "§c[!] Vous n'avez pas la permission !"
+  troll3:
+    permission: gabz.troll
+    permission-message: "§c[!] Vous n'avez pas la permission !"
+  troll4:
+    permission: gabz.troll
+    permission-message: "§c[!] Vous n'avez pas la permission !"
+  troll5:
     permission: gabz.troll
     permission-message: "§c[!] Vous n'avez pas la permission !"
