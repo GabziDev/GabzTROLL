@@ -8,3 +8,4 @@
 - troll3 : Effet de blindness 3 secondes
 - troll4 : Vers l'infini et au delà !
 - troll5 : Saut infini
+- troll6 : fake op

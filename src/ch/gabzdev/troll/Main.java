@@ -17,6 +17,7 @@ public class Main extends JavaPlugin {
         this.getCommand("troll3").setExecutor(new Troll3());
         this.getCommand("troll4").setExecutor(new Troll4());
         this.getCommand("troll5").setExecutor(new Troll5(this));
+        this.getCommand("Troll6").setExecutor(new Troll6(this));
         Bukkit.getPluginManager().registerEvents(new Effets(), this);
     }
 

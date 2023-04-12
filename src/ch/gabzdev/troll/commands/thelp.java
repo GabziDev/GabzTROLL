@@ -18,10 +18,11 @@ public class thelp implements CommandExecutor {
     String Troll3 = "\n§8§l> §etroll3 §7: Effet de blindness 3 secondes";
     String Troll4 = "\n§8§l> §etroll4 §7: Vers l'infini et au delà !";
     String Troll5 = "\n§8§l> §etroll5 §7: Saut infini";
+    String Troll6 = "\n§8§l> §etroll6 §7: Fake op";
 
     @Override
     public boolean onCommand(CommandSender commandSender, Command command, String s, String[] strings) {
-        commandSender.sendMessage("§b§lTrolls disponibles " + "§7(" + main.getDescription().getVersion() + ") §b§l:" + Version + Troll1 + Troll2 + Troll3 + Troll4 + Troll5);
+        commandSender.sendMessage("§b§lTrolls disponibles " + "§7(" + main.getDescription().getVersion() + ") §b§l:" + Version + Troll1 + Troll2 + Troll3 + Troll4 + Troll5 + Troll6);
         return true;
     }
 }

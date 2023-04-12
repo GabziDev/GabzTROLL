@@ -21,3 +21,6 @@ commands:
   troll5:
     permission: gabz.troll
     permission-message: "§c[!] Vous n'avez pas la permission !"
+  troll6:
+    permission: gabz.troll
+    permission-message: "§c[!] Vous n'avez pas la permission !"
